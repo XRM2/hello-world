@@ -1,6 +1,6 @@
 # hello-world
 ## Lab 6
-Takes in a name and age, and prints out price
+### Takes in a name and age, and prints out price
 name= input("Input your name")
 age1= int(input("age"))
 price=0
